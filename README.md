@@ -1,4 +1,4 @@
-# CaptureForge
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/346d7259-2e0f-4056-b35f-ac5c1112c1b6" /># CaptureForge
 A modern, customizable screenshot tool with full screen, window, and region capture. Includes hotkey support, delayed screenshots, dark/light themes, notifications, shutter sound, clipboard copy, auto‑start at boot, and a sleek modern interface.
 
 # CaptureForge
@@ -19,6 +19,13 @@ A lightweight tool to capture screenshots quickly and efficiently.
 - [Start at boot](ca://s?q=Start_at_boot_feature) to always have the tool ready.
 - [Modern theme](ca://s?q=Modern_theme_feature) with sleek UI design.
 - [Customizable settings](ca://s?q=Customizable_settings_feature) for hotkeys and save location.
+
+## ⌨️ Hotkeys — customize shortcuts for quick capture 
+- Ctrl+Alt_q    CaptureFroge bar.
+- Ctrl+Alt_d   Fullscreen capture.
+- Ctrl+Alt_w   Window capture.
+- Ctrl+Alt_e   rectangular capture.
+- Ctrl+Alt_r   Freefrome capture.
 
 ## 📦 Installation
 1. Download the latest `.exe` from the [Releases](ca://s?q=Download_exe_from_GitHub_Releases) page.
