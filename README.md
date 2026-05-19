@@ -26,3 +26,5 @@ A lightweight tool to capture screenshots quickly and efficiently.
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/screenshot-program.git
+   
+![Screenshot Program README](https://copilot.microsoft.com/th/id/BCO.27e6191a-eb09-4de0-9603-823a2df9d0d0.png)
