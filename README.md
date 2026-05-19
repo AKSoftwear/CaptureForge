@@ -9,22 +9,25 @@ A lightweight tool to capture screenshots quickly and efficiently.
 - [Capture full screen](ca://s?q=Capture_full_screen_with_program)
 - [Capture active window](ca://s?q=Capture_active_window_with_program)
 - [Capture custom region](ca://s?q=Capture_custom_region_with_program)
-- [Save as PNG/JPEG](ca://s?q=Save_screenshots_as_PNG_or_JPEG)
-- [Hotkey support](ca://s?q=Hotkey_support_for_screenshot_program)
+- [Hotkey support](ca://s?q=Hotkey_support_feature) for instant access.
+- [Auto capture after (x)sec](ca://s?q=Screenshot_after_x_seconds_feature) (e.g., capture after X seconds).
+- [Dark and light themes](ca://s?q=Dark_and_light_theme_feature) for comfortable viewing.
+- [Desktop notifications](ca://s?q=Notification_feature_for_screenshot_program) to confirm captures.
+- [Shutter sound](ca://s?q=Shutter_sound_feature) for feedback when a screenshot is taken.
+- [Copy to clipboard](ca://s?q=Copy_screenshot_to_clipboard_feature) for quick pasting.
+- [Start at boot](ca://s?q=Start_at_boot_feature) to always have the tool ready.
+- [Modern theme](ca://s?q=Modern_theme_feature) with sleek UI design.
+- [Customizable settings](ca://s?q=Customizable_settings_feature) for hotkeys, formats, and save location.
 
 ## 📦 Installation
 1. Download the latest `.exe` from the [Releases](ca://s?q=Download_exe_from_GitHub_Releases) page.
-2. Run the installer or place the `.exe` in your desired folder.
+2. Run the installer.
 3. Launch the program.
 
 ## 🚀 Usage
-- Press the configured hotkey to take a screenshot.
-- Screenshots are saved automatically in the `Screenshots` folder.
-- You can change settings in the **Preferences** menu.
+- Press the configured hotkey to take a screenshot or by lanching the CaptureForge bar from Tray.
+- Screenshots are saved automatically in the "CaptureForge" or configured folder.
+- You can change settings in the CaptureFroge bar ⚙️ menu.
 
-## 🛠️ Building from Source
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/screenshot-program.git
    
 ![Screenshot Program README](https://copilot.microsoft.com/th/id/BCO.27e6191a-eb09-4de0-9603-823a2df9d0d0.png)
