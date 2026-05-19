@@ -29,5 +29,9 @@ A lightweight tool to capture screenshots quickly and efficiently.
 - Screenshots are saved automatically in the "CaptureForge" or configured folder.
 - You can change settings in the CaptureFroge bar ⚙️ menu.
 
+  ## 🐛 Known Issues
+- Minor delay may occur on multi-monitor setups.
+- Clipboard copy may not work in some legacy applications.
+- program may need restart after heavy CPU load or sleep mode for hotkeys to work.
    
 ![Screenshot Program README](https://copilot.microsoft.com/th/id/BCO.27e6191a-eb09-4de0-9603-823a2df9d0d0.png)
