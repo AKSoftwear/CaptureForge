@@ -34,4 +34,4 @@ A lightweight tool to capture screenshots quickly and efficiently.
 - Clipboard copy may not work in some legacy applications.
 - program may need restart after heavy CPU load or sleep mode for hotkeys to work.
    
-![Screenshot Program README](https://copilot.microsoft.com/th/id/BCO.27e6191a-eb09-4de0-9603-823a2df9d0d0.png)
+![Screenshot Program README](https://github.com/AKSoftwear/CaptureForge/blob/main/20260520_011458.png)
