@@ -17,7 +17,7 @@ A lightweight tool to capture screenshots quickly and efficiently.
 - [Copy to clipboard](ca://s?q=Copy_screenshot_to_clipboard_feature) for quick pasting.
 - [Start at boot](ca://s?q=Start_at_boot_feature) to always have the tool ready.
 - [Modern theme](ca://s?q=Modern_theme_feature) with sleek UI design.
-- [Customizable settings](ca://s?q=Customizable_settings_feature) for hotkeys, formats, and save location.
+- [Customizable settings](ca://s?q=Customizable_settings_feature) for hotkeys and save location.
 
 ## 📦 Installation
 1. Download the latest `.exe` from the [Releases](ca://s?q=Download_exe_from_GitHub_Releases) page.
