@@ -4,6 +4,7 @@ A modern, customizable screenshot tool with full screen, window, and region capt
 # CaptureForge
 
 A lightweight tool to capture screenshots quickly and efficiently.
+![Screenshot Program README](https://github.com/AKSoftwear/CaptureForge/blob/main/20260520_011458.png)
 
 ## ✨ Features
 - [Capture full screen](ca://s?q=Capture_full_screen_with_program)
@@ -34,4 +35,4 @@ A lightweight tool to capture screenshots quickly and efficiently.
 - Clipboard copy may not work in some legacy applications.
 - program may need restart after heavy CPU load or sleep mode for hotkeys to work.
    
-![Screenshot Program README](https://github.com/AKSoftwear/CaptureForge/blob/main/20260520_011458.png)
+
