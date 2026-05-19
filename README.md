@@ -4,6 +4,7 @@ A modern, customizable screenshot tool with full screen, window, and region capt
 # CaptureForge
 
 A lightweight tool to capture screenshots quickly and efficiently.
+
 ![Screenshot Program README](https://github.com/AKSoftwear/CaptureForge/blob/main/20260520_011458.png)
 
 ## ✨ Features
