@@ -1,13 +1,9 @@
 # CaptureForge
 CaptureForge is A modern, customizable screenshot tool with full screen, window, and region capture. Includes hotkey support, delayed screenshots, dark/light themes, notifications, shutter sound, clipboard copy, auto‑start at boot, and a sleek modern interface.
-
-
-# CaptureForge
-
-A lightweight tool to capture screenshots quickly and efficiently.
+Capture like a pro, effortlessly.
 
 ![Screenshot Program README](https://github.com/AKSoftwear/CaptureForge/blob/main/20260520_011458.png)
-Capture like a pro, effortlessly.
+
 
 ## ✨ Features
 - [Capture full screen](ca://s?q=Capture_full_screen_with_program)
