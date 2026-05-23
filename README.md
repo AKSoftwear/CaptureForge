@@ -4,7 +4,7 @@ CaptureForge is A modern, customizable screenshot tool with full screen, window,
 Capture like a pro, effortlessly.
 
 ![Screenshot Program README](https://github.com/AKSoftwear/CaptureForge/blob/main/20260520_011458.png)
-
+![Screenshot Program README](https://github.com/AKSoftwear/CaptureForge/blob/main/20260523_142816.png)
 
 ## ✨ Features
 - [Capture full screen](ca://s?q=Capture_full_screen_with_program)
